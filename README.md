@@ -4,4 +4,4 @@
 - Node.js
 - Vue.js
 - I like to learn new technologies
-https://adolfo-poot30.github.io/Home
+https://adolfo-poot30.github.io/about-me
